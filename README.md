@@ -3,18 +3,29 @@ Welcome to the YouTube Analytics Dashboard project! This application provides po
 
 🛠️ Technologies Used
 YouTube Data API: Extracts data from YouTube channels and videos.
+
 Streamlit: Provides a user-friendly interface for interaction and visualization.
+
 MongoDB: Stores raw YouTube data in a flexible NoSQL database.
+
 Pandas: Processes and transforms data into structured DataFrames.
+
 SQL Databases: Stores processed data for efficient querying and analytics.
+
 Plotly: Creates dynamic and interactive visualizations.
 🚀 Features
 Data Extraction: Input a YouTube Channel ID to fetch comprehensive channel data using the YouTube API.
+
 MongoDB Storage: Raw data is stored in MongoDB for flexible access and management.
+
 Data Processing: Data is converted into Pandas DataFrames, preprocessed, and transformed for analysis.
+
 SQL Integration: Processed data is stored in SQL tables, enabling robust data management and querying.
+
 Dynamic Visualizations: Interactive charts and graphs generated with Plotly to explore key metrics.
+
 Streamlit Dashboard: A sleek and intuitive interface for navigating and interacting with data.
+
 📝 Installation
 Clone the Repository
 
